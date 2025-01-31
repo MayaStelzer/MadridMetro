@@ -12,6 +12,7 @@ The zoning is divided up as follows:
 ![image](https://github.com/user-attachments/assets/58b7ac3c-7c58-4a21-b795-7befe8697cd7)
 
 The pricing for the zones:
+
 ![image](https://github.com/user-attachments/assets/627f7de9-2154-4cd7-b9a8-637c1ae3e3d1)
 
 There are also special discounts:
